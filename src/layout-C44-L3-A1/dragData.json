@@ -1,0 +1,22 @@
+[
+    {
+        "text":"Keep safe by not revealing personal information while using the internet. Personal information includes email id, address, photos, phone number, and password.",
+        "val":"SAFE"
+    },
+    {
+        "text":"Don’t set up a meeting with those who you have only interacted with digitally. Meet online friends only in the presence of an adult family member.",
+        "val":"MEETING"
+    },
+    {
+        "text":"Don’t agree to accepting information from unknown sources. Accept emails and messages only from people who you know.",
+        "val":"ACCEPTING"
+    },
+    {
+        "text":"All the information on the internet may not be correct. Understand what is reliable information and what is not with other resources: books, websites or someone who knows.",
+        "val":"RELIABLE"
+    },
+    {
+        "text":"Decide to tell someone you know (teachers/adults/ family members) if you feel uncomfortable during digital interactions with others.",
+        "val":"TELL"
+    }
+]
