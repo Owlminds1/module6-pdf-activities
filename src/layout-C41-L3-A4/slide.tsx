@@ -311,7 +311,7 @@ const Slide = () => {
                     <li className="text-xl text-black font-bold animate-fadeIn ">
                       Sign in Canva to open the{" "}
                       <Link
-                        href="https://www.canva.com/design/DAGr0YoricA/ydJpa9nE0pVTn0QHaM-YkQ/edit"
+                        href="https://www.canva.com/design/DAGr0YoricA/x-9387Oom-RVMsrBiIgl3g/view?utm_content=DAGr0YoricA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h361f4ce83d"
                         target="blank"
                         className="text-blue-600"
                       >
