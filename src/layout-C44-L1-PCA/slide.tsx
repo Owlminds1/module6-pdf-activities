@@ -52,7 +52,7 @@ const Slide = () => {
 
             <SwiperSlide>
               <div className="w-full flex min-h-[200px] justify-center items-center  gap-5  p-6 text-black">
-                <Link className="px-8 py-2 rounded-lg bg-violet-900 text-white cursor-pointer" href="https://www.canva.com/design/DAGtNJXnUSY/yoPJSsPT8LqQNZv06W_ERQ/edit" target="blank">Watch Video </Link>
+                <Link className="px-8 py-2 rounded-lg bg-violet-900 text-white cursor-pointer" href="https://www.canva.com/design/DAGtNJXnUSY/l8Mnl1pKobNyIJZg6DZqiQ/watch?utm_content=DAGtNJXnUSY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc5d0650268" target="blank">Watch Video </Link>
               </div>
             </SwiperSlide>
 
