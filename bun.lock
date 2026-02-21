@@ -5,9 +5,9 @@
       "name": "module-6-pdf",
       "dependencies": {
         "jspdf": "^3.0.3",
-        "next": "15.5.4",
-        "react": "19.1.0",
-        "react-dom": "19.1.0",
+        "next": "^15.5.4",
+        "react": "^19.1.0",
+        "react-dom": "^19.1.0",
         "react-icons": "^5.5.0",
         "recharts": "^3.3.0",
         "swiper": "^12.0.2",
